@@ -1,0 +1,10 @@
+/*
+Theme Name: Cf7 Smart Beauty
+Theme URI: http://themeover.com/
+Description: Smart Beauty is a free GPL licensed plugin style for the popular Contact Form 7 plugin. It's suitable for Corporate and professional sites. Smart Beauty is part of the X Beauty Range of plugin styles for Contact Form 7 which follow a similar layout in different color schemes.
+Author: Themeover
+Author URI: http://themeover.com/
+Template: Contact Form 7 Plugin
+Version: 1.2
+Tags: cf7 smart beauty plugin styles, customise contact form 7, wordpress plugin, wordpress plugins 3.0, plugin styles, microthemer
+*/
