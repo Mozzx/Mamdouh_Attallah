@@ -1,0 +1,3436 @@
+
+
+The new options
+
+Array
+(
+    [general_form_styling] => 
+    [contact_form_7] => Array
+        (
+            [form_wrapper] => 
+            [form] => 
+            [form_paragraph] => Array
+                (
+                    [label] => Form Paragraph|.wpcf7 p
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 
+                                    [font_family] => 
+                                    [google_font] => 
+                                )
+
+                            [text] => Array
+                                (
+                                    [line_height] => 25px
+                                    [text_align] => 
+                                    [text_decoration] => 
+                                    [text_transform] => 
+                                    [text_indent] => 
+                                    [letter_spacing] => 
+                                    [word_spacing] => 
+                                    [list_style] => 
+                                    [text_shadow_color] => 
+                                    [text_shadow_x] => 
+                                    [text_shadow_y] => 
+                                    [text_shadow_blur] => 
+                                )
+
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => Array
+                                (
+                                    [margin_top] => 0
+                                    [margin_right] => 0
+                                    [margin_bottom] => 1.625em
+                                    [margin_left] => 0
+                                )
+
+                            [border] => 
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => 
+                                    [clear] => both
+                                    [overflow] => hidden
+                                    [visibility] => 
+                                    [cursor] => 
+                                    [opacity] => 
+                                )
+
+                            [position] => Array
+                                (
+                                    [position] => relative
+                                    [z_index] => 
+                                    [top] => 
+                                    [bottom] => 
+                                    [left] => 
+                                    [right] => 
+                                )
+
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [text] => text
+                            [margin] => margin
+                            [behaviour] => behaviour
+                            [position] => position
+                        )
+
+                    [pie] => 1
+                )
+
+            [line_break] => 
+            [form_field_wrapper] => 
+            [needed_to_override_twenty_ten_form_field_color_fontsize_and__lineheight] => 
+            [form_text_field] => 
+            [form_textarea] => 
+            [form_dropdown_menu] => 
+            [checkbox_or_radio_button_wrapper] => 
+            [checkbox_or_radio_button_label] => 
+            [form_checkbox] => 
+            [form_radio_button] => 
+            [quiz_question_label] => 
+            [quiz_form_input] => 
+            [captcha_image] => 
+            [captcha_form_input] => 
+            [form_submit_button] => 
+            [submit_button_hover] => 
+            [form_field_error_highlight_if_ajax] => 
+            [form_field_error_message_if_no_ajax] => 
+            [ajax_message] => 
+            [success_ajax_message] => 
+            [error_ajax_message] => 
+        )
+
+    [non_section] => Array
+        (
+            [m_query] => Array
+                (
+                    [2] => Array
+                        (
+                            [contact_form_7] => Array
+                                (
+                                    [form_paragraph] => Array
+                                        (
+                                            [style_config] => Array
+                                                (
+                                                    [font] => font
+                                                )
+
+                                            [styles] => Array
+                                                (
+                                                    [font] => Array
+                                                        (
+                                                            [font_weight] => bold
+                                                            [font_style] => 
+                                                            [font_variant] => 
+                                                            [font_size] => 
+                                                            [font_family] => cus-#039;MS Sans Serifcus-#039;
+                                                            [google_font] => 
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [contact_form_7] => Array
+                                (
+                                    [form_paragraph] => Array
+                                        (
+                                            [style_config] => Array
+                                                (
+                                                    [font] => font
+                                                )
+
+                                            [styles] => Array
+                                                (
+                                                    [font] => Array
+                                                        (
+                                                            [font_weight] => 
+                                                            [font_style] => italic
+                                                            [font_variant] => 
+                                                            [font_size] => 14
+                                                            [font_family] => 
+                                                            [google_font] => 
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [hand_coded_css] => /* It helps to have pointer when something should be clicked */
+input[type=submit] {
+	cursor: pointer;
+}
+
+/* Disable webkit form field highlighting */
+*:focus {
+	outline: none;
+}
+            [view_state] => Array
+                (
+                    [general_form_styling] => Array
+                        (
+                            [this] => 0
+                            [form] => 0
+                            [form_label] => 0
+                            [form_text_field] => 0
+                            [form_textarea] => 0
+                            [form_dropdown_menu] => 0
+                            [form_checkbox] => 0
+                            [form_radio_button] => 0
+                            [form_submit_button] => 0
+                        )
+
+                    [contact_form_7] => Array
+                        (
+                            [this] => 2
+                            [form_wrapper] => 0
+                            [form] => 0
+                            [form_paragraph] => 2
+                            [line_break] => 0
+                            [form_field_wrapper] => 0
+                            [needed_to_override_twenty_ten_form_field_color_fontsize_and__lineheight] => 0
+                            [form_text_field] => 0
+                            [form_textarea] => 0
+                            [form_dropdown_menu] => 0
+                            [checkbox_or_radio_button_wrapper] => 0
+                            [checkbox_or_radio_button_label] => 0
+                            [form_checkbox] => 0
+                            [form_radio_button] => 0
+                            [quiz_question_label] => 0
+                            [quiz_form_input] => 0
+                            [captcha_image] => 0
+                            [captcha_form_input] => 0
+                            [form_submit_button] => 0
+                            [submit_button_hover] => 0
+                            [form_field_error_highlight_if_ajax] => 0
+                            [form_field_error_message_if_no_ajax] => 0
+                            [ajax_message] => 0
+                            [success_ajax_message] => 0
+                            [error_ajax_message] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+
+The existing options
+
+Array
+(
+    [general_form_styling] => Array
+        (
+            [form] => Array
+                (
+                    [label] => Form|form
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_label] => Array
+                (
+                    [label] => Form Label|form label
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_text_field] => Array
+                (
+                    [label] => Form Text Field|form input[type=text]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_textarea] => Array
+                (
+                    [label] => Form Textarea|form textarea
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_dropdown_menu] => Array
+                (
+                    [label] => Form Dropdown Menu|form select
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_checkbox] => Array
+                (
+                    [label] => Form Checkbox|form input[type=checkbox]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_radio_button] => Array
+                (
+                    [label] => Form Radio Button|form input[type=radio]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_submit_button] => Array
+                (
+                    [label] => Form Submit Button|form input[type=submit]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+        )
+
+    [contact_form_7] => Array
+        (
+            [form_wrapper] => Array
+                (
+                    [label] => Form Wrapper|div.wpcf7
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 15
+                                    [font_family] => Arial
+                                )
+
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #ADB8BF
+                                )
+
+                            [background] => Array
+                                (
+                                    [background_color] => #19292E
+                                    [background_image] => 
+                                    [background_position] => 
+                                    [background_repeat] => 
+                                    [background_attachment] => 
+                                )
+
+                            [dimensions] => 
+                            [padding] => Array
+                                (
+                                    [padding_top] => 30
+                                    [padding_right] => 30
+                                    [padding_bottom] => 30
+                                    [padding_left] => 30
+                                )
+
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => 
+                                    [clear] => 
+                                    [overflow] => hidden
+                                )
+
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #38505A
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #19292E
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 8
+                                    [radius_top_right] => 8
+                                    [radius_bottom_right] => 8
+                                    [radius_bottom_left] => 8
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [forecolor] => forecolor
+                            [background] => background
+                            [padding] => padding
+                            [behaviour] => behaviour
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 1
+                )
+
+            [form] => Array
+                (
+                    [label] => Form|.wpcf7 form
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_paragraph] => Array
+                (
+                    [label] => Form Paragraph|.wpcf7 p
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 
+                                    [font_family] => 
+                                    [google_font] => 
+                                )
+
+                            [text] => Array
+                                (
+                                    [line_height] => 25px
+                                    [text_align] => 
+                                    [text_decoration] => 
+                                    [text_transform] => 
+                                    [text_indent] => 
+                                    [letter_spacing] => 
+                                    [word_spacing] => 
+                                    [list_style] => 
+                                    [text_shadow_color] => 
+                                    [text_shadow_x] => 
+                                    [text_shadow_y] => 
+                                    [text_shadow_blur] => 
+                                )
+
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => Array
+                                (
+                                    [margin_top] => 0
+                                    [margin_right] => 0
+                                    [margin_bottom] => 1.625em
+                                    [margin_left] => 0
+                                )
+
+                            [border] => 
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => 
+                                    [clear] => both
+                                    [overflow] => hidden
+                                    [visibility] => 
+                                    [cursor] => 
+                                    [opacity] => 
+                                )
+
+                            [position] => Array
+                                (
+                                    [position] => relative
+                                    [z_index] => 
+                                    [top] => 
+                                    [bottom] => 
+                                    [left] => 
+                                    [right] => 
+                                )
+
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [text] => text
+                            [margin] => margin
+                            [behaviour] => behaviour
+                            [position] => position
+                        )
+
+                    [pie] => 1
+                )
+
+            [line_break] => Array
+                (
+                    [label] => Line Break|.wpcf7 br
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_field_wrapper] => Array
+                (
+                    [label] => Form Field Wrapper|.wpcf7 span.wpcf7-form-control-wrap
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => Array
+                                (
+                                    [position] => static
+                                    [z_index] => 
+                                    [top] => 
+                                    [bottom] => 
+                                    [left] => 
+                                    [right] => 
+                                )
+
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [position] => position
+                        )
+
+                    [pie] => 1
+                )
+
+            [needed_to_override_twenty_ten_form_field_color_fontsize_and__lineheight] => Array
+                (
+                    [label] => Needed To Override Twenty Ten Form Field Color, Font-size and  Line-height|#content .wpcf7 input,
+#content .wpcf7 textarea
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 15
+                                    [font_family] => 
+                                )
+
+                            [text] => Array
+                                (
+                                    [line_height] => 1
+                                    [text_align] => 
+                                    [text_decoration] => 
+                                    [text_transform] => 
+                                    [text_indent] => 
+                                    [letter_spacing] => 
+                                    [word_spacing] => 
+                                    [list_style] => 
+                                    [text_shadow_color] => 
+                                    [text_shadow_x] => 
+                                    [text_shadow_y] => 
+                                    [text_shadow_blur] => 
+                                )
+
+                            [forecolor] => Array
+                                (
+                                    [color] => #C2E5F5
+                                )
+
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [text] => text
+                            [forecolor] => forecolor
+                        )
+
+                    [pie] => 0
+                )
+
+            [form_text_field] => Array
+                (
+                    [label] => Form Text Field|.wpcf7 input[type=text],
+.wpcf7 input[type=email],
+.wpcf7 input[type=file]
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 15
+                                    [font_family] => Arial
+                                    [google_font] => 
+                                )
+
+                            [text] => Array
+                                (
+                                    [line_height] => 1
+                                    [text_align] => 
+                                    [text_decoration] => 
+                                    [text_transform] => 
+                                    [text_indent] => 
+                                    [letter_spacing] => 
+                                    [word_spacing] => 
+                                    [list_style] => 
+                                    [text_shadow_color] => 
+                                    [text_shadow_x] => 
+                                    [text_shadow_y] => 
+                                    [text_shadow_blur] => 
+                                )
+
+                            [forecolor] => Array
+                                (
+                                    [color] => #C2E5F5
+                                )
+
+                            [background] => 
+                            [dimensions] => Array
+                                (
+                                    [width] => 63%
+                                    [height] => 
+                                    [min_width] => 
+                                    [min_height] => 
+                                    [max_width] => 
+                                    [max_height] => 
+                                )
+
+                            [padding] => Array
+                                (
+                                    [padding_top] => 7
+                                    [padding_right] => 7
+                                    [padding_bottom] => 7
+                                    [padding_left] => 7
+                                )
+
+                            [margin] => Array
+                                (
+                                    [margin_top] => -25
+                                    [margin_right] => 0
+                                    [margin_bottom] => 0
+                                    [margin_left] => 0
+                                )
+
+                            [border] => Array
+                                (
+                                    [border_top_color] => #61727A
+                                    [border_right_color] => #61727A
+                                    [border_bottom_color] => #61727A
+                                    [border_left_color] => #61727A
+                                    [border_top_width] => 1
+                                    [border_right_width] => 1
+                                    [border_bottom_width] => 1
+                                    [border_left_width] => 1
+                                    [border_style] => solid
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                    [visibility] => 
+                                    [cursor] => 
+                                    [opacity] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #0D1B21
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #18323D
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 4
+                                    [radius_top_right] => 4
+                                    [radius_bottom_right] => 4
+                                    [radius_bottom_left] => 4
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [text] => text
+                            [forecolor] => forecolor
+                            [dimensions] => dimensions
+                            [padding] => padding
+                            [margin] => margin
+                            [border] => border
+                            [behaviour] => behaviour
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 0
+                )
+
+            [form_textarea] => Array
+                (
+                    [label] => Form Textarea|.wpcf7 textarea
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 15
+                                    [font_family] => 
+                                )
+
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #C2E5F5
+                                )
+
+                            [background] => Array
+                                (
+                                    [background_color] => #0D1B21
+                                    [background_image] => 
+                                    [background_position] => 
+                                    [background_repeat] => 
+                                    [background_attachment] => 
+                                )
+
+                            [dimensions] => Array
+                                (
+                                    [width] => 63%
+                                    [height] => 
+                                )
+
+                            [padding] => Array
+                                (
+                                    [padding_top] => 7
+                                    [padding_right] => 7
+                                    [padding_bottom] => 7
+                                    [padding_left] => 7
+                                )
+
+                            [margin] => Array
+                                (
+                                    [margin_top] => -25px
+                                    [margin_right] => 
+                                    [margin_bottom] => 
+                                    [margin_left] => 
+                                )
+
+                            [border] => Array
+                                (
+                                    [border_top_color] => #61727A
+                                    [border_right_color] => #61727A
+                                    [border_bottom_color] => #61727A
+                                    [border_left_color] => #61727A
+                                    [border_top_width] => 1
+                                    [border_right_width] => 1
+                                    [border_bottom_width] => 1
+                                    [border_left_width] => 1
+                                    [border_style] => solid
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #0D1B21
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #18323D
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 4
+                                    [radius_top_right] => 4
+                                    [radius_bottom_right] => 4
+                                    [radius_bottom_left] => 4
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [forecolor] => forecolor
+                            [background] => background
+                            [dimensions] => dimensions
+                            [padding] => padding
+                            [margin] => margin
+                            [border] => border
+                            [behaviour] => behaviour
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 0
+                )
+
+            [form_dropdown_menu] => Array
+                (
+                    [label] => Form Dropdown Menu|.wpcf7 select
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #6F838C
+                                )
+
+                            [background] => 
+                            [dimensions] => Array
+                                (
+                                    [width] => 66%
+                                    [height] => 
+                                )
+
+                            [padding] => Array
+                                (
+                                    [padding_top] => 7
+                                    [padding_right] => 7
+                                    [padding_bottom] => 7
+                                    [padding_left] => 7
+                                )
+
+                            [margin] => Array
+                                (
+                                    [margin_top] => -25
+                                    [margin_right] => 
+                                    [margin_bottom] => 
+                                    [margin_left] => 
+                                )
+
+                            [border] => Array
+                                (
+                                    [border_top_color] => #61727A
+                                    [border_right_color] => #61727A
+                                    [border_bottom_color] => #61727A
+                                    [border_left_color] => #61727A
+                                    [border_top_width] => 1
+                                    [border_right_width] => 1
+                                    [border_bottom_width] => 1
+                                    [border_left_width] => 1
+                                    [border_style] => solid
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #0D1B21
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #18323D
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 4
+                                    [radius_top_right] => 4
+                                    [radius_bottom_right] => 4
+                                    [radius_bottom_left] => 4
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [forecolor] => forecolor
+                            [dimensions] => dimensions
+                            [padding] => padding
+                            [margin] => margin
+                            [border] => border
+                            [behaviour] => behaviour
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 0
+                )
+
+            [checkbox_or_radio_button_wrapper] => Array
+                (
+                    [label] => Checkbox or Radio Button Wrapper|.wpcf7 .wpcf7-list-item
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => Array
+                                (
+                                    [width] => 66%
+                                    [height] => 
+                                )
+
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => Array
+                                (
+                                    [display] => block
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => Array
+                                (
+                                    [position] => relative
+                                    [z_index] => 
+                                    [top] => 
+                                    [bottom] => 25
+                                    [left] => 
+                                    [right] => 
+                                )
+
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [dimensions] => dimensions
+                            [behaviour] => behaviour
+                            [position] => position
+                        )
+
+                    [pie] => 1
+                )
+
+            [checkbox_or_radio_button_label] => Array
+                (
+                    [label] => Checkbox or Radio Button Label|.wpcf7 .wpcf7-list-item-label
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_checkbox] => Array
+                (
+                    [label] => Form Checkbox|.wpcf7 .wpcf7-checkbox input
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_radio_button] => Array
+                (
+                    [label] => Form Radio Button|.wpcf7 .wpcf7-radio input
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [quiz_question_label] => Array
+                (
+                    [label] => Quiz Question Label|.wpcf7 .wpcf7-quiz-label
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => Array
+                                (
+                                    [display] => block
+                                    [float] => 
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [behaviour] => behaviour
+                        )
+
+                    [pie] => 1
+                )
+
+            [quiz_form_input] => Array
+                (
+                    [label] => Quiz Form Input|input.wpcf7-quiz[type=text]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [captcha_image] => Array
+                (
+                    [label] => Captcha Image|.wpcf7 img.wpcf7-captchac
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => Array
+                                (
+                                    [padding_top] => 0
+                                    [padding_right] => 0
+                                    [padding_bottom] => 0
+                                    [padding_left] => 0
+                                )
+
+                            [margin] => Array
+                                (
+                                    [margin_top] => 2
+                                    [margin_right] => 0
+                                    [margin_bottom] => 0
+                                    [margin_left] => 0
+                                )
+
+                            [border] => Array
+                                (
+                                    [border_top_color] => #FFFFFF
+                                    [border_right_color] => #FFFFFF
+                                    [border_bottom_color] => #FFFFFF
+                                    [border_left_color] => #FFFFFF
+                                    [border_top_width] => 4
+                                    [border_right_width] => 4
+                                    [border_bottom_width] => 4
+                                    [border_left_width] => 4
+                                    [border_style] => solid
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => block
+                                    [float] => left
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [padding] => padding
+                            [margin] => margin
+                            [border] => border
+                            [behaviour] => behaviour
+                        )
+
+                    [pie] => 1
+                )
+
+            [captcha_form_input] => Array
+                (
+                    [label] => Captcha Form Input|.wpcf7 input.wpcf7-captchar[type=text]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_submit_button] => Array
+                (
+                    [label] => Form Submit Button|.wpcf7 input.wpcf7-submit[type=submit]
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 
+                                    [font_family] => Arial
+                                )
+
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #C2E5F5
+                                )
+
+                            [background] => Array
+                                (
+                                    [background_color] => #0D1B21
+                                    [background_image] => 
+                                    [background_position] => 
+                                    [background_repeat] => 
+                                    [background_attachment] => 
+                                )
+
+                            [dimensions] => 
+                            [padding] => Array
+                                (
+                                    [padding_top] => 7
+                                    [padding_right] => 30
+                                    [padding_bottom] => 7
+                                    [padding_left] => 30
+                                )
+
+                            [margin] => 
+                            [border] => Array
+                                (
+                                    [border_top_color] => #020405
+                                    [border_right_color] => #020405
+                                    [border_bottom_color] => #020405
+                                    [border_left_color] => #020405
+                                    [border_top_width] => 1
+                                    [border_right_width] => 1
+                                    [border_bottom_width] => 1
+                                    [border_left_width] => 1
+                                    [border_style] => solid
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #0D1B21
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #070F12
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 4
+                                    [radius_top_right] => 4
+                                    [radius_bottom_right] => 4
+                                    [radius_bottom_left] => 4
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [forecolor] => forecolor
+                            [background] => background
+                            [padding] => padding
+                            [border] => border
+                            [behaviour] => behaviour
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 1
+                )
+
+            [submit_button_hover] => Array
+                (
+                    [label] => Submit Button Hover|.wpcf7 input.wpcf7-submit[type=submit]:hover
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #070F12
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #030608
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 
+                                    [radius_top_right] => 
+                                    [radius_bottom_right] => 
+                                    [radius_bottom_left] => 
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_field_error_highlight_if_ajax] => Array
+                (
+                    [label] => Form Field Error Highlight (if ajax)|span.wpcf7-not-valid-tip
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => Array
+                                (
+                                    [background_color] => transparent
+                                    [background_image] => cf7-smart-beauty/red-50.png
+                                    [background_position] => 
+                                    [background_repeat] => 
+                                    [background_attachment] => 
+                                )
+
+                            [dimensions] => Array
+                                (
+                                    [width] => 65%
+                                    [height] => 
+                                )
+
+                            [padding] => Array
+                                (
+                                    [padding_top] => 4
+                                    [padding_right] => 1%
+                                    [padding_bottom] => 4
+                                    [padding_left] => 1%
+                                )
+
+                            [margin] => 
+                            [border] => Array
+                                (
+                                    [border_top_color] => 
+                                    [border_right_color] => 
+                                    [border_bottom_color] => 
+                                    [border_left_color] => 
+                                    [border_top_width] => 
+                                    [border_right_width] => 
+                                    [border_bottom_width] => 
+                                    [border_left_width] => 
+                                    [border_style] => none
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => block
+                                    [float] => 
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => Array
+                                (
+                                    [position] => absolute
+                                    [z_index] => 
+                                    [top] => 0
+                                    [bottom] => 
+                                    [left] => 34%
+                                    [right] => 0
+                                )
+
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => 
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => 
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 4
+                                    [radius_top_right] => 4
+                                    [radius_bottom_right] => 4
+                                    [radius_bottom_left] => 4
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [background] => background
+                            [dimensions] => dimensions
+                            [padding] => padding
+                            [border] => border
+                            [behaviour] => behaviour
+                            [position] => position
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 0
+                )
+
+            [form_field_error_message_if_no_ajax] => Array
+                (
+                    [label] => Form Field Error Message (if no ajax)|span.wpcf7-not-valid-tip-no-ajax 
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => Array
+                                (
+                                    [line_height] => 
+                                    [text_align] => right
+                                    [text_decoration] => 
+                                    [text_transform] => 
+                                    [text_indent] => 
+                                    [letter_spacing] => 
+                                    [word_spacing] => 
+                                    [list_style] => 
+                                    [text_shadow_color] => 
+                                    [text_shadow_x] => 
+                                    [text_shadow_y] => 
+                                    [text_shadow_blur] => 
+                                )
+
+                            [forecolor] => Array
+                                (
+                                    [color] => #E87676
+                                )
+
+                            [background] => 
+                            [dimensions] => Array
+                                (
+                                    [width] => 63%
+                                    [height] => 
+                                )
+
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => Array
+                                (
+                                    [display] => block
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [text] => text
+                            [forecolor] => forecolor
+                            [dimensions] => dimensions
+                            [behaviour] => behaviour
+                        )
+
+                    [pie] => 1
+                )
+
+            [ajax_message] => Array
+                (
+                    [label] => Ajax Message|div.wpcf7-response-output
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => Array
+                                (
+                                    [padding_top] => 10
+                                    [padding_right] => 10
+                                    [padding_bottom] => 10
+                                    [padding_left] => 10
+                                )
+
+                            [margin] => Array
+                                (
+                                    [margin_top] => 
+                                    [margin_right] => 0
+                                    [margin_bottom] => 
+                                    [margin_left] => 0
+                                )
+
+                            [border] => Array
+                                (
+                                    [border_top_color] => 
+                                    [border_right_color] => 
+                                    [border_bottom_color] => 
+                                    [border_left_color] => 
+                                    [border_top_width] => 
+                                    [border_right_width] => 
+                                    [border_bottom_width] => 
+                                    [border_left_width] => 
+                                    [border_style] => none
+                                )
+
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #04090B
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #091519
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 6
+                                    [radius_top_right] => 6
+                                    [radius_bottom_right] => 6
+                                    [radius_bottom_left] => 6
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [padding] => padding
+                            [margin] => margin
+                            [border] => border
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 1
+                )
+
+            [success_ajax_message] => Array
+                (
+                    [label] => Success Ajax Message|div.wpcf7-mail-sent-ok
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #88FF80
+                                )
+
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [forecolor] => forecolor
+                        )
+
+                    [pie] => 1
+                )
+
+            [error_ajax_message] => Array
+                (
+                    [label] => Error Ajax Message|div.wpcf7-validation-errors,
+div.wpcf7-mail-sent-ng
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #E87676
+                                )
+
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [forecolor] => forecolor
+                        )
+
+                    [pie] => 1
+                )
+
+        )
+
+    [non_section] => Array
+        (
+            [m_query] => Array
+                (
+                    [2] => Array
+                        (
+                            [contact_form_7] => Array
+                                (
+                                    [form_paragraph] => Array
+                                        (
+                                            [style_config] => Array
+                                                (
+                                                    [font] => font
+                                                )
+
+                                            [styles] => Array
+                                                (
+                                                    [font] => Array
+                                                        (
+                                                            [font_weight] => bold
+                                                            [font_style] => 
+                                                            [font_variant] => 
+                                                            [font_size] => 
+                                                            [font_family] => cus-#039;MS Sans Serifcus-#039;
+                                                            [google_font] => 
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [contact_form_7] => Array
+                                (
+                                    [form_paragraph] => Array
+                                        (
+                                            [style_config] => Array
+                                                (
+                                                    [font] => font
+                                                )
+
+                                            [styles] => Array
+                                                (
+                                                    [font] => Array
+                                                        (
+                                                            [font_weight] => 
+                                                            [font_style] => italic
+                                                            [font_variant] => 
+                                                            [font_size] => 14
+                                                            [font_family] => 
+                                                            [google_font] => 
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [hand_coded_css] => /* It helps to have pointer when something should be clicked */
+input[type=submit] {
+	cursor: pointer;
+}
+
+/* Disable webkit form field highlighting */
+*:focus {
+	outline: none;
+}
+            [view_state] => Array
+                (
+                    [general_form_styling] => Array
+                        (
+                            [this] => 0
+                            [form] => 0
+                            [form_label] => 0
+                            [form_text_field] => 0
+                            [form_textarea] => 0
+                            [form_dropdown_menu] => 0
+                            [form_checkbox] => 0
+                            [form_radio_button] => 0
+                            [form_submit_button] => 0
+                        )
+
+                    [contact_form_7] => Array
+                        (
+                            [this] => 2
+                            [form_wrapper] => 0
+                            [form] => 0
+                            [form_paragraph] => 2
+                            [line_break] => 0
+                            [form_field_wrapper] => 0
+                            [needed_to_override_twenty_ten_form_field_color_fontsize_and__lineheight] => 0
+                            [form_text_field] => 0
+                            [form_textarea] => 0
+                            [form_dropdown_menu] => 0
+                            [checkbox_or_radio_button_wrapper] => 0
+                            [checkbox_or_radio_button_label] => 0
+                            [form_checkbox] => 0
+                            [form_radio_button] => 0
+                            [quiz_question_label] => 0
+                            [quiz_form_input] => 0
+                            [captcha_image] => 0
+                            [captcha_form_input] => 0
+                            [form_submit_button] => 0
+                            [submit_button_hover] => 0
+                            [form_field_error_highlight_if_ajax] => 0
+                            [form_field_error_message_if_no_ajax] => 0
+                            [ajax_message] => 0
+                            [success_ajax_message] => 0
+                            [error_ajax_message] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+
+The hybrid options
+
+Array
+(
+    [general_form_styling] => Array
+        (
+            [form] => Array
+                (
+                    [label] => Form|form
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_label] => Array
+                (
+                    [label] => Form Label|form label
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_text_field] => Array
+                (
+                    [label] => Form Text Field|form input[type=text]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_textarea] => Array
+                (
+                    [label] => Form Textarea|form textarea
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_dropdown_menu] => Array
+                (
+                    [label] => Form Dropdown Menu|form select
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_checkbox] => Array
+                (
+                    [label] => Form Checkbox|form input[type=checkbox]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_radio_button] => Array
+                (
+                    [label] => Form Radio Button|form input[type=radio]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_submit_button] => Array
+                (
+                    [label] => Form Submit Button|form input[type=submit]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+        )
+
+    [contact_form_7] => Array
+        (
+            [form_wrapper] => Array
+                (
+                    [label] => Form Wrapper|div.wpcf7
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 15
+                                    [font_family] => Arial
+                                )
+
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #ADB8BF
+                                )
+
+                            [background] => Array
+                                (
+                                    [background_color] => #19292E
+                                    [background_image] => 
+                                    [background_position] => 
+                                    [background_repeat] => 
+                                    [background_attachment] => 
+                                )
+
+                            [dimensions] => 
+                            [padding] => Array
+                                (
+                                    [padding_top] => 30
+                                    [padding_right] => 30
+                                    [padding_bottom] => 30
+                                    [padding_left] => 30
+                                )
+
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => 
+                                    [clear] => 
+                                    [overflow] => hidden
+                                )
+
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #38505A
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #19292E
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 8
+                                    [radius_top_right] => 8
+                                    [radius_bottom_right] => 8
+                                    [radius_bottom_left] => 8
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [forecolor] => forecolor
+                            [background] => background
+                            [padding] => padding
+                            [behaviour] => behaviour
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 1
+                )
+
+            [form] => Array
+                (
+                    [label] => Form|.wpcf7 form
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_paragraph] => Array
+                (
+                    [label] => Form Paragraph|.wpcf7 p
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 
+                                    [font_family] => 
+                                    [google_font] => 
+                                )
+
+                            [text] => Array
+                                (
+                                    [line_height] => 25px
+                                    [text_align] => 
+                                    [text_decoration] => 
+                                    [text_transform] => 
+                                    [text_indent] => 
+                                    [letter_spacing] => 
+                                    [word_spacing] => 
+                                    [list_style] => 
+                                    [text_shadow_color] => 
+                                    [text_shadow_x] => 
+                                    [text_shadow_y] => 
+                                    [text_shadow_blur] => 
+                                )
+
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => Array
+                                (
+                                    [margin_top] => 0
+                                    [margin_right] => 0
+                                    [margin_bottom] => 1.625em
+                                    [margin_left] => 0
+                                )
+
+                            [border] => 
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => 
+                                    [clear] => both
+                                    [overflow] => hidden
+                                    [visibility] => 
+                                    [cursor] => 
+                                    [opacity] => 
+                                )
+
+                            [position] => Array
+                                (
+                                    [position] => relative
+                                    [z_index] => 
+                                    [top] => 
+                                    [bottom] => 
+                                    [left] => 
+                                    [right] => 
+                                )
+
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [text] => text
+                            [margin] => margin
+                            [behaviour] => behaviour
+                            [position] => position
+                        )
+
+                    [pie] => 1
+                )
+
+            [line_break] => Array
+                (
+                    [label] => Line Break|.wpcf7 br
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_field_wrapper] => Array
+                (
+                    [label] => Form Field Wrapper|.wpcf7 span.wpcf7-form-control-wrap
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => Array
+                                (
+                                    [position] => static
+                                    [z_index] => 
+                                    [top] => 
+                                    [bottom] => 
+                                    [left] => 
+                                    [right] => 
+                                )
+
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [position] => position
+                        )
+
+                    [pie] => 1
+                )
+
+            [needed_to_override_twenty_ten_form_field_color_fontsize_and__lineheight] => Array
+                (
+                    [label] => Needed To Override Twenty Ten Form Field Color, Font-size and  Line-height|#content .wpcf7 input,
+#content .wpcf7 textarea
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 15
+                                    [font_family] => 
+                                )
+
+                            [text] => Array
+                                (
+                                    [line_height] => 1
+                                    [text_align] => 
+                                    [text_decoration] => 
+                                    [text_transform] => 
+                                    [text_indent] => 
+                                    [letter_spacing] => 
+                                    [word_spacing] => 
+                                    [list_style] => 
+                                    [text_shadow_color] => 
+                                    [text_shadow_x] => 
+                                    [text_shadow_y] => 
+                                    [text_shadow_blur] => 
+                                )
+
+                            [forecolor] => Array
+                                (
+                                    [color] => #C2E5F5
+                                )
+
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [text] => text
+                            [forecolor] => forecolor
+                        )
+
+                    [pie] => 0
+                )
+
+            [form_text_field] => Array
+                (
+                    [label] => Form Text Field|.wpcf7 input[type=text],
+.wpcf7 input[type=email],
+.wpcf7 input[type=file]
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 15
+                                    [font_family] => Arial
+                                    [google_font] => 
+                                )
+
+                            [text] => Array
+                                (
+                                    [line_height] => 1
+                                    [text_align] => 
+                                    [text_decoration] => 
+                                    [text_transform] => 
+                                    [text_indent] => 
+                                    [letter_spacing] => 
+                                    [word_spacing] => 
+                                    [list_style] => 
+                                    [text_shadow_color] => 
+                                    [text_shadow_x] => 
+                                    [text_shadow_y] => 
+                                    [text_shadow_blur] => 
+                                )
+
+                            [forecolor] => Array
+                                (
+                                    [color] => #C2E5F5
+                                )
+
+                            [background] => 
+                            [dimensions] => Array
+                                (
+                                    [width] => 63%
+                                    [height] => 
+                                    [min_width] => 
+                                    [min_height] => 
+                                    [max_width] => 
+                                    [max_height] => 
+                                )
+
+                            [padding] => Array
+                                (
+                                    [padding_top] => 7
+                                    [padding_right] => 7
+                                    [padding_bottom] => 7
+                                    [padding_left] => 7
+                                )
+
+                            [margin] => Array
+                                (
+                                    [margin_top] => -25
+                                    [margin_right] => 0
+                                    [margin_bottom] => 0
+                                    [margin_left] => 0
+                                )
+
+                            [border] => Array
+                                (
+                                    [border_top_color] => #61727A
+                                    [border_right_color] => #61727A
+                                    [border_bottom_color] => #61727A
+                                    [border_left_color] => #61727A
+                                    [border_top_width] => 1
+                                    [border_right_width] => 1
+                                    [border_bottom_width] => 1
+                                    [border_left_width] => 1
+                                    [border_style] => solid
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                    [visibility] => 
+                                    [cursor] => 
+                                    [opacity] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #0D1B21
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #18323D
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 4
+                                    [radius_top_right] => 4
+                                    [radius_bottom_right] => 4
+                                    [radius_bottom_left] => 4
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [text] => text
+                            [forecolor] => forecolor
+                            [dimensions] => dimensions
+                            [padding] => padding
+                            [margin] => margin
+                            [border] => border
+                            [behaviour] => behaviour
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 0
+                )
+
+            [form_textarea] => Array
+                (
+                    [label] => Form Textarea|.wpcf7 textarea
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 15
+                                    [font_family] => 
+                                )
+
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #C2E5F5
+                                )
+
+                            [background] => Array
+                                (
+                                    [background_color] => #0D1B21
+                                    [background_image] => 
+                                    [background_position] => 
+                                    [background_repeat] => 
+                                    [background_attachment] => 
+                                )
+
+                            [dimensions] => Array
+                                (
+                                    [width] => 63%
+                                    [height] => 
+                                )
+
+                            [padding] => Array
+                                (
+                                    [padding_top] => 7
+                                    [padding_right] => 7
+                                    [padding_bottom] => 7
+                                    [padding_left] => 7
+                                )
+
+                            [margin] => Array
+                                (
+                                    [margin_top] => -25px
+                                    [margin_right] => 
+                                    [margin_bottom] => 
+                                    [margin_left] => 
+                                )
+
+                            [border] => Array
+                                (
+                                    [border_top_color] => #61727A
+                                    [border_right_color] => #61727A
+                                    [border_bottom_color] => #61727A
+                                    [border_left_color] => #61727A
+                                    [border_top_width] => 1
+                                    [border_right_width] => 1
+                                    [border_bottom_width] => 1
+                                    [border_left_width] => 1
+                                    [border_style] => solid
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #0D1B21
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #18323D
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 4
+                                    [radius_top_right] => 4
+                                    [radius_bottom_right] => 4
+                                    [radius_bottom_left] => 4
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [forecolor] => forecolor
+                            [background] => background
+                            [dimensions] => dimensions
+                            [padding] => padding
+                            [margin] => margin
+                            [border] => border
+                            [behaviour] => behaviour
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 0
+                )
+
+            [form_dropdown_menu] => Array
+                (
+                    [label] => Form Dropdown Menu|.wpcf7 select
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #6F838C
+                                )
+
+                            [background] => 
+                            [dimensions] => Array
+                                (
+                                    [width] => 66%
+                                    [height] => 
+                                )
+
+                            [padding] => Array
+                                (
+                                    [padding_top] => 7
+                                    [padding_right] => 7
+                                    [padding_bottom] => 7
+                                    [padding_left] => 7
+                                )
+
+                            [margin] => Array
+                                (
+                                    [margin_top] => -25
+                                    [margin_right] => 
+                                    [margin_bottom] => 
+                                    [margin_left] => 
+                                )
+
+                            [border] => Array
+                                (
+                                    [border_top_color] => #61727A
+                                    [border_right_color] => #61727A
+                                    [border_bottom_color] => #61727A
+                                    [border_left_color] => #61727A
+                                    [border_top_width] => 1
+                                    [border_right_width] => 1
+                                    [border_bottom_width] => 1
+                                    [border_left_width] => 1
+                                    [border_style] => solid
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #0D1B21
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #18323D
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 4
+                                    [radius_top_right] => 4
+                                    [radius_bottom_right] => 4
+                                    [radius_bottom_left] => 4
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [forecolor] => forecolor
+                            [dimensions] => dimensions
+                            [padding] => padding
+                            [margin] => margin
+                            [border] => border
+                            [behaviour] => behaviour
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 0
+                )
+
+            [checkbox_or_radio_button_wrapper] => Array
+                (
+                    [label] => Checkbox or Radio Button Wrapper|.wpcf7 .wpcf7-list-item
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => Array
+                                (
+                                    [width] => 66%
+                                    [height] => 
+                                )
+
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => Array
+                                (
+                                    [display] => block
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => Array
+                                (
+                                    [position] => relative
+                                    [z_index] => 
+                                    [top] => 
+                                    [bottom] => 25
+                                    [left] => 
+                                    [right] => 
+                                )
+
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [dimensions] => dimensions
+                            [behaviour] => behaviour
+                            [position] => position
+                        )
+
+                    [pie] => 1
+                )
+
+            [checkbox_or_radio_button_label] => Array
+                (
+                    [label] => Checkbox or Radio Button Label|.wpcf7 .wpcf7-list-item-label
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_checkbox] => Array
+                (
+                    [label] => Form Checkbox|.wpcf7 .wpcf7-checkbox input
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_radio_button] => Array
+                (
+                    [label] => Form Radio Button|.wpcf7 .wpcf7-radio input
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [quiz_question_label] => Array
+                (
+                    [label] => Quiz Question Label|.wpcf7 .wpcf7-quiz-label
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => Array
+                                (
+                                    [display] => block
+                                    [float] => 
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [behaviour] => behaviour
+                        )
+
+                    [pie] => 1
+                )
+
+            [quiz_form_input] => Array
+                (
+                    [label] => Quiz Form Input|input.wpcf7-quiz[type=text]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [captcha_image] => Array
+                (
+                    [label] => Captcha Image|.wpcf7 img.wpcf7-captchac
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => Array
+                                (
+                                    [padding_top] => 0
+                                    [padding_right] => 0
+                                    [padding_bottom] => 0
+                                    [padding_left] => 0
+                                )
+
+                            [margin] => Array
+                                (
+                                    [margin_top] => 2
+                                    [margin_right] => 0
+                                    [margin_bottom] => 0
+                                    [margin_left] => 0
+                                )
+
+                            [border] => Array
+                                (
+                                    [border_top_color] => #FFFFFF
+                                    [border_right_color] => #FFFFFF
+                                    [border_bottom_color] => #FFFFFF
+                                    [border_left_color] => #FFFFFF
+                                    [border_top_width] => 4
+                                    [border_right_width] => 4
+                                    [border_bottom_width] => 4
+                                    [border_left_width] => 4
+                                    [border_style] => solid
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => block
+                                    [float] => left
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [padding] => padding
+                            [margin] => margin
+                            [border] => border
+                            [behaviour] => behaviour
+                        )
+
+                    [pie] => 1
+                )
+
+            [captcha_form_input] => Array
+                (
+                    [label] => Captcha Form Input|.wpcf7 input.wpcf7-captchar[type=text]
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_submit_button] => Array
+                (
+                    [label] => Form Submit Button|.wpcf7 input.wpcf7-submit[type=submit]
+                    [styles] => Array
+                        (
+                            [font] => Array
+                                (
+                                    [font_weight] => 
+                                    [font_style] => 
+                                    [font_variant] => 
+                                    [font_size] => 
+                                    [font_family] => Arial
+                                )
+
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #C2E5F5
+                                )
+
+                            [background] => Array
+                                (
+                                    [background_color] => #0D1B21
+                                    [background_image] => 
+                                    [background_position] => 
+                                    [background_repeat] => 
+                                    [background_attachment] => 
+                                )
+
+                            [dimensions] => 
+                            [padding] => Array
+                                (
+                                    [padding_top] => 7
+                                    [padding_right] => 30
+                                    [padding_bottom] => 7
+                                    [padding_left] => 30
+                                )
+
+                            [margin] => 
+                            [border] => Array
+                                (
+                                    [border_top_color] => #020405
+                                    [border_right_color] => #020405
+                                    [border_bottom_color] => #020405
+                                    [border_left_color] => #020405
+                                    [border_top_width] => 1
+                                    [border_right_width] => 1
+                                    [border_bottom_width] => 1
+                                    [border_left_width] => 1
+                                    [border_style] => solid
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => 
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #0D1B21
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #070F12
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 4
+                                    [radius_top_right] => 4
+                                    [radius_bottom_right] => 4
+                                    [radius_bottom_left] => 4
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [font] => font
+                            [forecolor] => forecolor
+                            [background] => background
+                            [padding] => padding
+                            [border] => border
+                            [behaviour] => behaviour
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 1
+                )
+
+            [submit_button_hover] => Array
+                (
+                    [label] => Submit Button Hover|.wpcf7 input.wpcf7-submit[type=submit]:hover
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #070F12
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #030608
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 
+                                    [radius_top_right] => 
+                                    [radius_bottom_right] => 
+                                    [radius_bottom_left] => 
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 1
+                )
+
+            [form_field_error_highlight_if_ajax] => Array
+                (
+                    [label] => Form Field Error Highlight (if ajax)|span.wpcf7-not-valid-tip
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => Array
+                                (
+                                    [background_color] => transparent
+                                    [background_image] => cf7-smart-beauty/red-50.png
+                                    [background_position] => 
+                                    [background_repeat] => 
+                                    [background_attachment] => 
+                                )
+
+                            [dimensions] => Array
+                                (
+                                    [width] => 65%
+                                    [height] => 
+                                )
+
+                            [padding] => Array
+                                (
+                                    [padding_top] => 4
+                                    [padding_right] => 1%
+                                    [padding_bottom] => 4
+                                    [padding_left] => 1%
+                                )
+
+                            [margin] => 
+                            [border] => Array
+                                (
+                                    [border_top_color] => 
+                                    [border_right_color] => 
+                                    [border_bottom_color] => 
+                                    [border_left_color] => 
+                                    [border_top_width] => 
+                                    [border_right_width] => 
+                                    [border_bottom_width] => 
+                                    [border_left_width] => 
+                                    [border_style] => none
+                                )
+
+                            [behaviour] => Array
+                                (
+                                    [display] => block
+                                    [float] => 
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => Array
+                                (
+                                    [position] => absolute
+                                    [z_index] => 
+                                    [top] => 0
+                                    [bottom] => 
+                                    [left] => 34%
+                                    [right] => 0
+                                )
+
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => 
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => 
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 4
+                                    [radius_top_right] => 4
+                                    [radius_bottom_right] => 4
+                                    [radius_bottom_left] => 4
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [background] => background
+                            [dimensions] => dimensions
+                            [padding] => padding
+                            [border] => border
+                            [behaviour] => behaviour
+                            [position] => position
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 0
+                )
+
+            [form_field_error_message_if_no_ajax] => Array
+                (
+                    [label] => Form Field Error Message (if no ajax)|span.wpcf7-not-valid-tip-no-ajax 
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => Array
+                                (
+                                    [line_height] => 
+                                    [text_align] => right
+                                    [text_decoration] => 
+                                    [text_transform] => 
+                                    [text_indent] => 
+                                    [letter_spacing] => 
+                                    [word_spacing] => 
+                                    [list_style] => 
+                                    [text_shadow_color] => 
+                                    [text_shadow_x] => 
+                                    [text_shadow_y] => 
+                                    [text_shadow_blur] => 
+                                )
+
+                            [forecolor] => Array
+                                (
+                                    [color] => #E87676
+                                )
+
+                            [background] => 
+                            [dimensions] => Array
+                                (
+                                    [width] => 63%
+                                    [height] => 
+                                )
+
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => Array
+                                (
+                                    [display] => block
+                                    [float] => right
+                                    [clear] => 
+                                    [overflow] => 
+                                )
+
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [text] => text
+                            [forecolor] => forecolor
+                            [dimensions] => dimensions
+                            [behaviour] => behaviour
+                        )
+
+                    [pie] => 1
+                )
+
+            [ajax_message] => Array
+                (
+                    [label] => Ajax Message|div.wpcf7-response-output
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => 
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => Array
+                                (
+                                    [padding_top] => 10
+                                    [padding_right] => 10
+                                    [padding_bottom] => 10
+                                    [padding_left] => 10
+                                )
+
+                            [margin] => Array
+                                (
+                                    [margin_top] => 
+                                    [margin_right] => 0
+                                    [margin_bottom] => 
+                                    [margin_left] => 0
+                                )
+
+                            [border] => Array
+                                (
+                                    [border_top_color] => 
+                                    [border_right_color] => 
+                                    [border_bottom_color] => 
+                                    [border_left_color] => 
+                                    [border_top_width] => 
+                                    [border_right_width] => 
+                                    [border_bottom_width] => 
+                                    [border_left_width] => 
+                                    [border_style] => none
+                                )
+
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => Array
+                                (
+                                    [gradient_a] => #04090B
+                                    [gradient_b] => 
+                                    [gradient_b_pos] => 
+                                    [gradient_c] => #091519
+                                    [gradient_angle] => 
+                                    [radius_top_left] => 6
+                                    [radius_top_right] => 6
+                                    [radius_bottom_right] => 6
+                                    [radius_bottom_left] => 6
+                                    [box_shadow_color] => 
+                                    [box_shadow_x] => 
+                                    [box_shadow_y] => 
+                                    [box_shadow_blur] => 
+                                )
+
+                        )
+
+                    [style_config] => Array
+                        (
+                            [padding] => padding
+                            [margin] => margin
+                            [border] => border
+                            [CSS3] => CSS3
+                        )
+
+                    [pie] => 1
+                )
+
+            [success_ajax_message] => Array
+                (
+                    [label] => Success Ajax Message|div.wpcf7-mail-sent-ok
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #88FF80
+                                )
+
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [forecolor] => forecolor
+                        )
+
+                    [pie] => 1
+                )
+
+            [error_ajax_message] => Array
+                (
+                    [label] => Error Ajax Message|div.wpcf7-validation-errors,
+div.wpcf7-mail-sent-ng
+                    [styles] => Array
+                        (
+                            [font] => 
+                            [text] => 
+                            [forecolor] => Array
+                                (
+                                    [color] => #E87676
+                                )
+
+                            [background] => 
+                            [dimensions] => 
+                            [padding] => 
+                            [margin] => 
+                            [border] => 
+                            [behaviour] => 
+                            [position] => 
+                            [CSS3] => 
+                        )
+
+                    [style_config] => Array
+                        (
+                            [forecolor] => forecolor
+                        )
+
+                    [pie] => 1
+                )
+
+        )
+
+    [non_section] => Array
+        (
+            [m_query] => Array
+                (
+                    [2] => Array
+                        (
+                            [contact_form_7] => Array
+                                (
+                                    [form_paragraph] => Array
+                                        (
+                                            [style_config] => Array
+                                                (
+                                                    [font] => font
+                                                )
+
+                                            [styles] => Array
+                                                (
+                                                    [font] => Array
+                                                        (
+                                                            [font_weight] => bold
+                                                            [font_style] => 
+                                                            [font_variant] => 
+                                                            [font_size] => 
+                                                            [font_family] => cus-#039;MS Sans Serifcus-#039;
+                                                            [google_font] => 
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [contact_form_7] => Array
+                                (
+                                    [form_paragraph] => Array
+                                        (
+                                            [style_config] => Array
+                                                (
+                                                    [font] => font
+                                                )
+
+                                            [styles] => Array
+                                                (
+                                                    [font] => Array
+                                                        (
+                                                            [font_weight] => 
+                                                            [font_style] => italic
+                                                            [font_variant] => 
+                                                            [font_size] => 14
+                                                            [font_family] => 
+                                                            [google_font] => 
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [hand_coded_css] => /* It helps to have pointer when something should be clicked */
+input[type=submit] {
+	cursor: pointer;
+}
+
+/* Disable webkit form field highlighting */
+*:focus {
+	outline: none;
+}
+            [view_state] => Array
+                (
+                    [general_form_styling] => Array
+                        (
+                            [this] => 0
+                            [form] => 0
+                            [form_label] => 0
+                            [form_text_field] => 0
+                            [form_textarea] => 0
+                            [form_dropdown_menu] => 0
+                            [form_checkbox] => 0
+                            [form_radio_button] => 0
+                            [form_submit_button] => 0
+                        )
+
+                    [contact_form_7] => Array
+                        (
+                            [this] => 2
+                            [form_wrapper] => 0
+                            [form] => 0
+                            [form_paragraph] => 2
+                            [line_break] => 0
+                            [form_field_wrapper] => 0
+                            [needed_to_override_twenty_ten_form_field_color_fontsize_and__lineheight] => 0
+                            [form_text_field] => 0
+                            [form_textarea] => 0
+                            [form_dropdown_menu] => 0
+                            [checkbox_or_radio_button_wrapper] => 0
+                            [checkbox_or_radio_button_label] => 0
+                            [form_checkbox] => 0
+                            [form_radio_button] => 0
+                            [quiz_question_label] => 0
+                            [quiz_form_input] => 0
+                            [captcha_image] => 0
+                            [captcha_form_input] => 0
+                            [form_submit_button] => 0
+                            [submit_button_hover] => 0
+                            [form_field_error_highlight_if_ajax] => 0
+                            [form_field_error_message_if_no_ajax] => 0
+                            [ajax_message] => 0
+                            [success_ajax_message] => 0
+                            [error_ajax_message] => 0
+                        )
+
+                )
+
+        )
+
+)
